@@ -1,0 +1,3 @@
+`PyTidyLib`_ is a Python package that wraps the `HTML Tidy`_ library. This
+allows you, from Python code, to "fix" invalid (X)HTML markup. Some of the
+library's many capabilities include:

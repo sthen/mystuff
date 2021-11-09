@@ -1,0 +1,2 @@
+Text input widget for urwid (https://github.com/urwid/urwid) that supports
+readline shortcuts.

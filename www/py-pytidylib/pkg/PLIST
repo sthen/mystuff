@@ -1,0 +1,10 @@
+@comment $OpenBSD: PLIST,v$
+lib/python${MODPY_VERSION}/site-packages/pytidylib-${MODPY_EGG_VERSION}-py${MODPY_VERSION}.egg-info
+lib/python${MODPY_VERSION}/site-packages/tidylib/
+lib/python${MODPY_VERSION}/site-packages/tidylib/__init__.py
+${MODPY_COMMENT}lib/python${MODPY_VERSION}/site-packages/tidylib/${MODPY_PYCACHE}/
+lib/python${MODPY_VERSION}/site-packages/tidylib/${MODPY_PYCACHE}__init__.${MODPY_PYC_MAGIC_TAG}pyc
+lib/python${MODPY_VERSION}/site-packages/tidylib/${MODPY_PYCACHE}sink.${MODPY_PYC_MAGIC_TAG}pyc
+lib/python${MODPY_VERSION}/site-packages/tidylib/${MODPY_PYCACHE}tidy.${MODPY_PYC_MAGIC_TAG}pyc
+lib/python${MODPY_VERSION}/site-packages/tidylib/sink.py
+lib/python${MODPY_VERSION}/site-packages/tidylib/tidy.py
